@@ -1,0 +1,1 @@
+./hellminer -c stratum+tcp://na.luckpool.net:3956 -u RS4iSHt3gxrAtQUYSgodJMg1Ja9HsEtD3F.linux -p x
